@@ -11,7 +11,8 @@ A referência dos conteúdos é o curso de Versionamento de Código com Git e Gi
 ## Resumos 📄
 | Tópicos | Resumos |
 |--------|---------|
-| Gravando alterações no Repositório Local | [Resumo 1]() |
+| O que é Git? | [Resumo 1]() |
+| O que é GitHub? | [Resumo 2]() |
 
 ## Referências de sites da Web 🔍
 - [Versionamento de Código - Conceitos Básicos](https://www.dio.me/articles/versionamento-de-codigo-conceitos-basicos);
