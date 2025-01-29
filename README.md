@@ -4,7 +4,7 @@ Repositório destinado ao armazenamento de arquivos de resumo sobre os temas Git
 Essa é uma visão simplificada de conteúdos essenciais para a compreensão e uso dessas tecnologias. 
 A referência dos conteúdos é o curso de Versionamento de Código com Git e GitHub da DIO:
 
-![Static Badge](https://img.shields.io/badge/Acesse%20o%20curso-81599F?style=for-the-badge&logo=git&logoColor=D9ECFF&logoSize=auto&label=Git&labelColor=81599F&color=3CD4D9&link=https%3A%2F%2Fweb.dio.me%2Fcourse%2Fversionamento-de-codigo-com-git-e-github%2Flearning%2Ff3cbaa66-efbd-4c25-842e-2069c188c066).
+![Static Badge](https://img.shields.io/badge/Acesse%20o%20curso-81599F?style=for-the-badge&logo=git&logoColor=D9ECFF&logoSize=auto&label=Git&labelColor=81599F&color=3CD4D9&link=https%3A%2F%2Fweb.dio.me%2Fcourse%2Fversionamento-de-codigo-com-git-e-github%2Flearning%2Ff3cbaa66-efbd-4c25-842e-2069c188c066)
 
 ## Documentação auxiliar 📚
 - [Documentação oficial do Git](https://git-scm.com/doc);
