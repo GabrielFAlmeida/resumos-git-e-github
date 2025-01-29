@@ -24,7 +24,7 @@ Os sistemas de versionamento são muito importantes para uma equipe de desenvolv
 - Segurança: Permite a criação de backups externos do código, caso a versão originária apresente problemas;
 - Agilidade e resolução de problemas: Ao longo da criação de um sistema, vários profissionais alteram o mesmo arquivo ao mesmo tempo. O VCS é essencial para que esse fluxo de trabalho paralelo aconteça, dando agilidade e permitindo a atualização adequada dos arquivos.
 
-## O que é o Git? ![GIt](./../assets/imagens/git-logo.png)
+## O que é o Git? <img alt="VCS Distribuido" src="./../assets/imagens/git-logo.png" width="20" height="20">
 
 O Git é essencialmente um sistema de versionamento de código distribuído, DVCS, open-source e gratuito.
 Desse modo, é muito interessante usá-lo, visto que para ter ele em sua máquina basta usar o botão abaixo e seguir os passos da instalação:
