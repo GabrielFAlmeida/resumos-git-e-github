@@ -14,7 +14,7 @@ A referência dos conteúdos é o curso de Versionamento de Código com Git e Gi
 | Tópicos | Resumos |
 |--------|---------|
 | O que é Git? | [Resumo 1](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-1-o-que-git.md) |
-| O que é GitHub? | [Resumo 2]() |
+| O que é GitHub? | [Resumo 2](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-2-o-que-git.md) |
  
 ## Referências de sites da Web 🔍
 - [Versionamento de Código - Conceitos Básicos](https://www.dio.me/articles/versionamento-de-codigo-conceitos-basicos);

@@ -1,4 +1,4 @@
-# Resumo 2 - O que é GitHub? <img alt="GitHub" src="./../assets/imagens/github.png" width="20" height="20">
+# Resumo 2 - O que é GitHub? <img alt="GitHub" src="./../assets/imagens/github.png" width="40" height="40">
 
 Esse é o resumo sobre o que é o GitHub. Entenda a função dessa ferramenta.
 Nesse caso, vamos direto ao ponto! GitHub é uma ferramenta de hospedagem de código, especialmente os que funcionam com base em repositórios Git.
