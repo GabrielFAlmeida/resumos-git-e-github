@@ -1,4 +1,4 @@
-# Resumos sobre Git e GitHub
+# Resumos sobre Git e GitHub <img alt="Git" src="./../resumos-git-e-github/assets/imagens/git-logo.png" width="40" height="40">
 
 Repositório destinado ao armazenamento de arquivos de resumo sobre os temas Git e GitHub. 
 Essa é uma visão simplificada de conteúdos essenciais para a compreensão e uso dessas tecnologias. 
@@ -9,9 +9,9 @@ A referência dos conteúdos é o curso de Versionamento de Código com Git e Gi
 ## Resumos 📄
 | Nº | Tópicos | Resumos |
 | -------- | -------- | --------- |
-| 1 | O que é Git? | [Resumo 1](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-1-o-que-git.md) |
-| 2 | O que é GitHub? | [Resumo 2](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-2-o-que-github.md) |
-| 3 | Instalando e configurando o Git | [Resumo 3](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-3-instalando-e-configurando-o-git.md) |
+| <div align="center">1</div> | O que é Git? | [Resumo 1](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-1-o-que-git.md) |
+| <div align="center">2</div> | O que é GitHub? | [Resumo 2](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-2-o-que-github.md) |
+| <div align="center">3</div> | Instalando e configurando o Git | [Resumo 3](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-3-instalando-e-configurando-o-git.md) |
 
 ## Documentação auxiliar 📚
 - [Documentação oficial do Git](https://git-scm.com/doc);
