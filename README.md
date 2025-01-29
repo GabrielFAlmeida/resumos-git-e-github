@@ -2,7 +2,9 @@
 
 Repositório destinado ao armazenamento de arquivos de resumo sobre os temas Git e GitHub. 
 Essa é uma visão simplificada de conteúdos essenciais para a compreensão e uso dessas tecnologias. 
-A referência dos conteúdos é o curso de Versionamento de Código com Git e GitHub da DIO, [disponível aqui](https://dio.me).
+A referência dos conteúdos é o curso de Versionamento de Código com Git e GitHub da DIO:
+
+![Static Badge](https://img.shields.io/badge/Acesse%20o%20curso-81599F?style=for-the-badge&logo=git&logoColor=D9ECFF&logoSize=auto&label=Git&labelColor=81599F&color=3CD4D9&link=https%3A%2F%2Fweb.dio.me%2Fcourse%2Fversionamento-de-codigo-com-git-e-github%2Flearning%2Ff3cbaa66-efbd-4c25-842e-2069c188c066).
 
 ## Documentação auxiliar 📚
 - [Documentação oficial do Git](https://git-scm.com/doc);
@@ -11,9 +13,9 @@ A referência dos conteúdos é o curso de Versionamento de Código com Git e Gi
 ## Resumos 📄
 | Tópicos | Resumos |
 |--------|---------|
-| O que é Git? | [Resumo 1]() |
+| O que é Git? | [Resumo 1](../resumos-git-e-github/resumos/resumo-1-o-que-git.md) |
 | O que é GitHub? | [Resumo 2]() |
-
+ 
 ## Referências de sites da Web 🔍
 - [Versionamento de Código - Conceitos Básicos](https://www.dio.me/articles/versionamento-de-codigo-conceitos-basicos);
 - [Git Gud: A árvore de trabalho, área de preparação e repositório local](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018);
