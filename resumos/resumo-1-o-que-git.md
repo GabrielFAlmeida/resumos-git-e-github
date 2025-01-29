@@ -6,8 +6,8 @@ Esse é o resumo sobre o que é o Git. Para definirmos basicamente o que ele faz
 Um VCS tem por função verificar alterações em um sistema de arquivos, permitindo a integração e o compartilhamento das alterações com outros usuários do sistema.
 
 Existem dois tipos de VCS:
-|   | Centralizados | Distribuídos |
-|--------|--------|---------|
+|        | Centralizados | Distribuídos |
+|--------|---------------|--------------|
 | Como funcionam? |Baseados em um ponto central de falha, uma instância remota e centralizada do VCS. Caso essa instância seja perdida deverá ser substituida por uma nova cópia do código-fonte. Além disso, caso esteja indisponível, impedirá atualizações por parte dos desenvolvedores. | Baseados em instâncias com versoes completas do código fonte, evitando as armadilhas de indisponibilidade de um VCS Centralizado. Caso a versão "original" seja perdida, basta que outra instância seja usada para liderar o desenvolvimento. |
 | Exemplos | SVN, CVS e Perforce | GIT, Mercurial e Bazaar |
 | Representação visual | ![VCS Centralizado](./../imagens/centralized-vcs.png) | ![VCS Distribuído](./../imagens/distributed-vcs.png) |
