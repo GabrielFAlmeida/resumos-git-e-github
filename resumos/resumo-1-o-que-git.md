@@ -3,6 +3,7 @@
 Esse é o resumo sobre o que é o Git. Entenda sobre essa ferramenta e a sua função de modo intuitivo.
 Para começar, precisamos entender o que é um VCS, ou sistema de versionamento de código.
 
+
 ## O que é um VCS? ⚙️
 
 Um VCS - sistema de versionamento de código - tem por função verificar alterações em um sistema de arquivos, permitindo a integração e o compartilhamento das alterações com outros usuários do sistema.
@@ -24,6 +25,7 @@ Os sistemas de versionamento são muito importantes para uma equipe de desenvolv
 - Segurança: Permite a criação de backups externos do código, caso a versão originária apresente problemas;
 - Agilidade e resolução de problemas: Ao longo da criação de um sistema, vários profissionais alteram o mesmo arquivo ao mesmo tempo. O VCS é essencial para que esse fluxo de trabalho paralelo aconteça, dando agilidade e permitindo a atualização adequada dos arquivos.
 
+
 ## O que é o Git? <img alt="VCS Distribuido" src="./../assets/imagens/git-logo.png" width="20" height="20">
 
 O Git é essencialmente um sistema de versionamento de código distribuído, DVCS, open-source e gratuito.
@@ -34,15 +36,29 @@ Desse modo, é muito interessante usá-lo, visto que para ter ele em sua máquin
 ### Como o Git trata os arquivos? 🎲
 
 O Git trata os dados do sistema de arquivos como um conjunto de imagens em miniatura. Sempre que há um `commit` uma nova imagem é capturada.
-Para eficiência o Git não armazena os arquivos novamente caso não tenham sido alterados. Ao invés disso, um link para o fluxo armazenado anteriormente é criado. Observe um esquemático da armazenamento do próprio Git:
+Para eficiência, o Git não armazena os arquivos novamente caso não tenham sido alterados. Ao invés disso, um link para o fluxo armazenado anteriormente é criado. Observe um esquemático da armazenamento do próprio Git:
 
 <div align="center"><img alt="Armazenamento do Git]" src="./../assets/imagens/git-snapshot-schema.png" width="600"></div>
- 
+
+### Operações essenciais de um repositório Git. 🛠️
+Em um repositório de arquivos baseado no git você pode executar diversas operações. Considero três delas muito importantes:
+- Braching (```git checkout```): Permite que o desenvolvedor separe um "braço" de trabalho só para ele, possibilitando paralelismo a codificação;
+- Merging: (```git push```, ```git pull``` e ````git merge```): Permite que a equipe combine as alterações em um único ponto do repositório, unindo-as;
+- Rebasing (```git rebase```): Permite que você carregue uma sequência de mudanças de uma branch para outra. Pode ser útil para unir as branches, tal qual o merge. No entanto, pode ainda ser aplicado em casos específicos, como para possibilitar alterações de históricos - quando associado a outros comandos. 
+
+A ilustração abaixo representa rapidamente o fluxo de trabalho de um repositório Git:
+
+<div align="center"><img alt="Fluxo de trabalho de um repositório Git]" src="./../assets/imagens/git-repository-graph.png" width="600"></div>
+
+
 ## Referências usadas para esse resumo 🔍
 - [Versionamento de Código - Conceitos Básicos](https://www.dio.me/articles/versionamento-de-codigo-conceitos-basicos);
 - [Git Gud: A árvore de trabalho, área de preparação e repositório local](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018);
-- [Versionamento de Código, Git e GitHub - Guia Prático](https://www.dio.me/articles/versionamento-de-codigo-git-e-github-guia-pratico).
-- [Software de controle de versão para equipes profissionais](https://bitbucket.org/product/br/version-control-software)
+- [Versionamento de Código, Git e GitHub - Guia Prático](https://www.dio.me/articles/versionamento-de-codigo-git-e-github-guia-pratico);
+- [Software de controle de versão para equipes profissionais](https://bitbucket.org/product/br/version-control-software);
+- [1.3 Começando - O Básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git);
+- [3.6 Branches no Git - Rebase](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Rebase).
+
 
 ## Autor ℹ️
 
