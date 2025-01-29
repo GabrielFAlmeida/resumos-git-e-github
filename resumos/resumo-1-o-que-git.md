@@ -11,7 +11,7 @@ Existem dois tipos de VCS:
 |        | Centralizados | Distribuídos |
 |--------|---------------|--------------|
 | Descrição |Baseados em um ponto central de falha, uma instância remota e centralizada do VCS. Caso essa instância seja perdida deverá ser substituida por uma nova cópia do código-fonte. Além disso, caso esteja indisponível, impedirá atualizações por parte dos desenvolvedores. | Baseados em instâncias com versões completas do código fonte, evitando as armadilhas de indisponibilidade de um VCS Centralizado. Caso a versão "original" seja perdida, basta que outra instância seja usada para liderar o desenvolvimento. |
-| Exemplos | ![Static Badge](https://img.shields.io/badge/Subversion-81599F?style=for-the-badge&logo=subversion&logoColor=D9ECFF&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Perforce-81599F?style=for-the-badge&logo=perforce&logoColor=D9ECFF&logoSize=auto) | ![Static Badge](https://img.shields.io/badge/Git-81599F?style=for-the-badge&logo=git&logoColor=D9ECFF&logoSize=auto) [Static Badge](https://img.shields.io/badge/Mercurial-81599F?style=for-the-badge&logo=mercurial&logoColor=D9ECFF&logoSize=auto) |
+| Exemplos | ![Static Badge](https://img.shields.io/badge/Subversion-81599F?style=for-the-badge&logo=subversion&logoColor=D9ECFF&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Perforce-81599F?style=for-the-badge&logo=perforce&logoColor=D9ECFF&logoSize=auto) | ![Static Badge](https://img.shields.io/badge/Git-81599F?style=for-the-badge&logo=git&logoColor=D9ECFF&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Mercurial-81599F?style=for-the-badge&logo=mercurial&logoColor=D9ECFF&logoSize=auto) |
 | Representação visual | <img alt="VCS Centralizado" src="./../assets/imagens/centralized-vcs.png" width="100" height="100"> | <img alt="VCS Distribuido" src="./../assets/imagens/distributed-vcs.png" width="100" height="100"> |
 
 ### Por que eu preciso de VCS? 🤯
@@ -30,7 +30,7 @@ Desse modo, é muito interessante usá-lo, visto que para ter ele em sua máquin
 O Git trata os dados do sistema de arquivos como um conjunto de imagens em miniatura. Sempre que há um ```commit``` uma nova imagem é capturada. 
 Para eficiência o Git não armazena os arquivos novamente caso não tenham sido alterados. Ao invés disso, um link para o fluxo armazenado anteriormente é criado. Observe um esquemático da armazenamento do próprio Git: 
 
-<img alt="Armazenamento do Git]" src="./../assets/imagens/git-snapshot-schema.png" width="200"> |
+<img alt="Armazenamento do Git]" src="./../assets/imagens/git-snapshot-schema.png" width="600"> |
  
 ## Referências usadas para esse resumo 🔍
 - [Versionamento de Código - Conceitos Básicos](https://www.dio.me/articles/versionamento-de-codigo-conceitos-basicos);
