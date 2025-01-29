@@ -61,7 +61,7 @@ Depois de um commit, a Staging Area fica limpa, pronta para novas mudanças. |
 
 Observe a seguir uma representação simples da interação entre essas áreas: 
 
-<div align="center"><img alt="Áreas de trabalho do Git" src="./../assets/imagens/git-areas-schema.png" width="600"></div>
+<div align="center"><img alt="Áreas de trabalho do Git" src="./../assets/imagens/git-areas-schema.png" width="400"></div>
 
 ## Referências para esse resumo 🔍
 - [Software de controle de versão para equipes profissionais](https://bitbucket.org/product/br/version-control-software);
