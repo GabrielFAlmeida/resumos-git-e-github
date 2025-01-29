@@ -10,7 +10,7 @@ Existem dois tipos de VCS:
 |--------|---------------|--------------|
 | Como funcionam? |Baseados em um ponto central de falha, uma instância remota e centralizada do VCS. Caso essa instância seja perdida deverá ser substituida por uma nova cópia do código-fonte. Além disso, caso esteja indisponível, impedirá atualizações por parte dos desenvolvedores. | Baseados em instâncias com versoes completas do código fonte, evitando as armadilhas de indisponibilidade de um VCS Centralizado. Caso a versão "original" seja perdida, basta que outra instância seja usada para liderar o desenvolvimento. |
 | Exemplos | SVN, CVS e Perforce | GIT, Mercurial e Bazaar |
-| Representação visual | ![VCS Centralizado](./../imagens/centralized-vcs.png) | ![VCS Distribuído](./../imagens/distributed-vcs.png) |
+| Representação visual | <img alt="VCS Centralizado" src="./../assets/imagens/centralized-vcs.png" width="100" height="100"> | <img alt="VCS Distribuido" src="./../assets/imagens/distributed-vcs.png" width="100" height="100"> |
 
 ## Por que eu preciso de VCS? 🤯
 Os sistemas de versionamento são muito importantes para uma equipe de desenvolvimento, visto os seguintes pontos:
