@@ -1,6 +1,6 @@
 # Resumo 1 - O que é Git? 
 
-Esse é o resumo sobre o que é o Git. Para definirmos basicamente o que ele faz, vamos falar sobre VCS, ou sistemas de versionamento de código.
+Esse é o resumo sobre o que é o Git. Entenda sobre essa ferramenta e a sua função de modo intuitivo.
 
 ## O que é um VCS? 🔨
 Um VCS tem por função verificar alterações em um sistema de arquivos, permitindo a integração e o compartilhamento das alterações com outros usuários do sistema.
@@ -25,7 +25,7 @@ Os sistemas de versionamento são muito importantes para uma equipe de desenvolv
 - [Versionamento de Código, Git e GitHub - Guia Prático](https://www.dio.me/articles/versionamento-de-codigo-git-e-github-guia-pratico).
 - [Software de controle de versão para equipes profissionais](https://bitbucket.org/product/br/version-control-software)
 
-## Autor
+## Autor ℹ️
 
-- GitHub: [@GabrielFAlmeida](https://github.com/GabrielFAlmeida)
+- Feito com o 🫶🏻 por [@GabrielFAlmeida](https://github.com/GabrielFAlmeida)
 - LinkedIn: [Gabriel França de Almeida](https://www.linkedin.com/in/gabriel-frnca/)
