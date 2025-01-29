@@ -55,6 +55,7 @@ O Git possui áreas de trabalho que são empregadas para garantir um fluxo adequ
 Existem três áreas, sendo elas:
 
 | Nome | Árvore de trabalho (Working Tree) | Área de preparação (Staging Area) | Repositório Local (Local Repo) |
+| ---- | ----------------------------------| --------------------------------- | ------------------------------ |
 | Descrição |Pense na Working Tree como a sua área de trabalho no computador, onde você edita seus arquivos livremente. O Git observa essa área, mas não salva automaticamente suas mudanças. Se você modificar algo e não mandar para o Git (com comandos como ```git add``` e ```git commit```), suas alterações poderão ser perdidas. | A Staging Area funciona como um rascunho antes de salvar algo definitivamente. Quando você edita um arquivo, ele fica na Working Tree. Se quiser que o Git preste atenção nele, você usa ```git add```, e ele passa para a Staging Area. Apesar disso, se você editar o arquivo depois, o Git não verá as novas mudanças até que você as adicione novamente. 
 Logo, a Staging Area ajuda a organizar as mudanças antes de salvá-las no histórico do Git com o ```git commit```. | O Repositório Local é como a memória do Git: ele guarda todo o histórico do seu projeto dentro do diretório ```.git```. Quando você usa o ```git commit```, é como tirar uma foto do estado atual dos arquivos. Isso cria um checkpoint, permitindo que você volte para esse ponto no futuro, se necessário.
 Depois de um commit, a Staging Area fica limpa, pronta para novas mudanças. |
