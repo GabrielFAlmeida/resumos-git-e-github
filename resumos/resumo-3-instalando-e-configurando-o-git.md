@@ -1,6 +1,6 @@
 # Resumo 1 - Como instalar e configurar o Git? ⬇️
 
-Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, como instalar e configurar ele.
+Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, como instalar e fazer a configuração desse sistema.
 
 ## Instalando no Windows <img alt="GitHub" src="./../assets/imagens/windows.png" width="20" height="20">
 
@@ -42,7 +42,7 @@ Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, co
 
 - Usando o Homebrew, basta executar o comando
 
-```brew install git```
+```$brew install git```
 
 - Para o MacPorts, execute esse código:
 
