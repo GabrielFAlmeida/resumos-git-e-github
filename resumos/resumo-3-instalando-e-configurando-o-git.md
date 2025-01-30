@@ -21,12 +21,24 @@ Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, co
 
 - Para a última versão estável da sua release do Debian/Ubuntu
 
-    ```# apt-get install git```
+    ```
+
+    # apt-get install git
+
+    ```
 
 - Para o Ubuntu, esse processo fornece a versão estável mais recente do Git:
-    ```# add-apt-repository ppa:git-core/ppa```
+    ```
+    
+    # add-apt-repository ppa:git-core/ppa
+    
+    ```
 
-    ```# apt update; apt install git```
+    ```
+    
+    # apt update; apt install git
+    
+    ```
 
 - Para outras distribuições do Linux siga a documentação indicada acima.
 
@@ -42,11 +54,19 @@ Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, co
 
 - Usando o Homebrew, basta executar o comando
 
-    ```$brew install git```
+    ```
+    
+    $brew install git
+    
+    ```
 
 - Para o MacPorts, execute esse código:
 
-    ```sudo port install git```
+    ```
+    
+    sudo port install git
+    
+    ```
 
 ## Referências para esse resumo 🔍
 
