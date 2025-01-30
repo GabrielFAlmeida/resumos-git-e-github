@@ -68,9 +68,6 @@ Abaixo como instalar o recurso nos principais sistemas operacionais.
 Nessa parte do conteúdo você acessará como configurar partes essenciais do Git.
 
 Para iniciar, você pode listar as configurações do seu Git com o seguinte comando:
-
-    $ git config --list
-
 Além disso, é importante evidenciar que existem três tipos de configurações no Git, sendo elas:
 - --global: configurações globais, relacionadas ao seu usuário;
 - -- system: configurações fixadas ao sistema apenas;
@@ -78,14 +75,7 @@ Além disso, é importante evidenciar que existem três tipos de configurações
 
 ### Configurando seu usuário e o nome da branch padrão:
 Para configurar globalmente o seu usuário, você usará os dois comandos a seguir:
-
-    $git config --global user.name "Nome e Sobrenome"
-    $git config --global user.email seuemail@email.com
-
 Para configurar o nome da branch padrão dos repositórios, globalmente, você deve usar o código a seguir:
-
-    $git config --global init.defaultBranch main
-
 Atualmente, usamos o nome ```main``` para nossas branches padrão. Em alguns repositórios mais antigos você também pode vê-las com o nome ```master```.
 
 ## Referências para esse resumo 🔍
