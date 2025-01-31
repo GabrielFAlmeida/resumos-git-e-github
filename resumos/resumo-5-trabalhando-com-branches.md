@@ -38,7 +38,9 @@ Por fim, para mesclar duas branches, aplique:
 
 ## Referências para esse resumo 🔍
 
-- [Comandos GIT - Comandos essenciais do Git para gerenciamento de branches](https://www.dio.me/articles/comandos-git-comandos-essenciais-do-git-para-gerenciamento-de-branches).
+- [Comandos GIT - Comandos essenciais do Git para gerenciamento de branches](https://www.dio.me/articles/comandos-git-comandos-essenciais-do-git-para-gerenciamento-de-branches);
+- [Git Fetch](https://git-scm.com/docs/git-fetch);
+- [Git Merge](https://git-scm.com/docs/git-merge).
 
 ## Autor ℹ️
 
