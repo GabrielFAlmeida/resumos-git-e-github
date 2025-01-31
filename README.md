@@ -16,7 +16,7 @@ A referência dos conteúdos é o curso de Versionamento de Código com Git e Gi
 | <div align="center">3</div> | Instalando e configurando o Git | [Resumo 3](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-3-instalando-e-configurando-o-git.md) |
 | <div align="center">4</div> | Iniciando e operando um repositório | [Resumo 4](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-4-iniciando-e-operando-um-repositorio.md) |
 | <div align="center">5</div> | Trabalhando com branches | [Resumo 5](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-5-trabalhando-com-branches.md) |
-| <div align="center">6</div> | Instalando e configurando o Git | [Resumo 6](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-4-iniciando-e-operando-um-repositorio.md) |
+| <div align="center">6</div> | Alterando o histórico de commits e usando restauração | [Resumo 6](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-6-alterando-o-historico-de-commits-e-usando-restauracao.md) |
 
 </div>
 

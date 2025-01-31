@@ -9,6 +9,17 @@ Para listar quais branches estão disponíveis, basta usar o comando:
 
     git branch
 
+## Adicionando um repositório remoto vinculado ao seu repositório local 🔛
+
+Para vincular um repositório remoto ao seu local é simples:
+
+    git remote add 
+
+Por padrão o nome vinculado será ```origin```, ou seja, ```origin``` é o espaço remoto que será associado ao seu recurso local.
+Além disso, você pode listar os repositórios ligados usando:
+
+    git remote -v
+
 ## Operações comuns com branches 🔡
 
 Usualmente, usamos as branches como divisões que permitem o pararelismo do trabalho em funcionalidades específicas. Portanto, podemos criar, deletar, mesclar e atualizar as branches - como atividades comuns.

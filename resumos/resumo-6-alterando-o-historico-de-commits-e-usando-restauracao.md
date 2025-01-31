@@ -1,6 +1,6 @@
 # Resumo 6 - Alterando o histórico de commits e usando restauração? ↩️
-Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, como instalar e fazer a configuração desse sistema.
 
+Esse é o resumo sobre como verificar o que já aconteceu no seu repo e editar as informações, caso seja necessário.
 
 ## Instalando o Git 
 

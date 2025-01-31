@@ -21,6 +21,7 @@ Para clonar um repositório já existente:
 
 - Salve as alterações que tenha feito, podem ser edições ou remoções de arquivos
 - Use o comando ```git add .``` para adicionar todos os arquivos a Staging Area;
+- Verifique como está a sua árvore de trabalho com o ```git status```;
 - Aplique as alterações com o comando ```git commit -m SUA_MENSAGEM_SOBRE_A_MUDANÇA```.
 
 ## Atualizando seu repositório local ⬇️
