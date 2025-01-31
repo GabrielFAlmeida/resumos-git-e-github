@@ -2,7 +2,6 @@
 
 Esse é o resumo trata sobre como manipular as branches e usá-las para segmentar suas criações.
 
-
 ## Verificando as branches existentes ⏱️
 
 Para listar quais branches estão disponíveis, basta usar o comando:

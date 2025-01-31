@@ -2,7 +2,6 @@
 
 Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, como instalar e fazer a configuração desse sistema.
 
-
 ## Instalando o Git 
 
 Abaixo como instalar o recurso nos principais sistemas operacionais.
@@ -77,6 +76,7 @@ Além disso, é importante evidenciar que existem três tipos de configurações
 - --local: configurações do repositório em específico.
 
 ### Configurando seu usuário e o nome da branch padrão:
+
 Para configurar globalmente o seu usuário, você usará os dois comandos a seguir:
 
     $git config --global user.name "Nome e Sobrenome"
