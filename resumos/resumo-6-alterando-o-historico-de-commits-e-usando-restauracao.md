@@ -1,5 +1,4 @@
-# Resumo 3 - Instalando e configurando o Git? ⬇️
-
+# Resumo 6 - Alterando o histórico de commits e usando restauração? ↩️
 Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, como instalar e fazer a configuração desse sistema.
 
 
