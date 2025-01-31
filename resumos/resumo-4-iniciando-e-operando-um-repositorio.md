@@ -27,13 +27,13 @@ Para clonar um repositório já existente:
 
 - Para atualizar o seu repositório com as informações de um remoto use:
 
-```git pull```
+    ```git pull```
 
 ## Enviando alterações para o repositório remoto ⬆️
 
 - Para enviar as alterações commitadas localmente ao repositório remoto, use:
 
-```git push```
+    ```git push```
 
 ## Referências para esse resumo 🔍
 

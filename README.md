@@ -14,7 +14,7 @@ A referência dos conteúdos é o curso de Versionamento de Código com Git e Gi
 | <div align="center">1</div> | O que é Git? | [Resumo 1](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-1-o-que-git.md) |
 | <div align="center">2</div> | O que é GitHub? | [Resumo 2](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-2-o-que-github.md) |
 | <div align="center">3</div> | Instalando e configurando o Git | [Resumo 3](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-3-instalando-e-configurando-o-git.md) |
-| <div align="center">4</div> | Instalando e configurando o Git | [Resumo 4](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-4-iniciando-e-operando-um-repositorio) |
+| <div align="center">4</div> | Instalando e configurando o Git | [Resumo 4](https://github.com/GabrielFAlmeida/resumos-git-e-github/blob/main/resumos/resumo-4-iniciando-e-operando-um-repositorio.md) |
 
 </div>
 
