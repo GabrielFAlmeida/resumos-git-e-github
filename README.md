@@ -24,11 +24,6 @@ A referência dos conteúdos é o curso de Versionamento de Código com Git e Gi
 - [Documentação oficial do Git](https://git-scm.com/doc);
 - [Documentação oficial do GitHub](https://docs.github.com/pt).
 
-## Referências para oa resumos 🔍
-- [Versionamento de Código - Conceitos Básicos](https://www.dio.me/articles/versionamento-de-codigo-conceitos-basicos);
-- [Git Gud: A árvore de trabalho, área de preparação e repositório local](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018);
-- [Versionamento de Código, Git e GitHub - Guia Prático](https://www.dio.me/articles/versionamento-de-codigo-git-e-github-guia-pratico).
-
 ## Autor ℹ️
 
 - Feito com o 🫶🏻 por [@GabrielFAlmeida](https://github.com/GabrielFAlmeida)
