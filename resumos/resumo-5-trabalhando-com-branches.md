@@ -1,96 +1,49 @@
-# Resumo 6 - Alterando o histórico de commits e usando restauração? ↩️
+# Resumo 5 - Trabalhando com branches 🔀
 
-Esse é o resumo sobre como fazer o Git funcionar em seu computador, ou seja, como instalar e fazer a configuração desse sistema.
+Esse é o resumo trata sobre como manipular as branches e usá-las para segmentar suas criações.
 
 
-## Instalando o Git 
+## Verificando as branches existentes ⏱️
 
-Abaixo como instalar o recurso nos principais sistemas operacionais.
+Para listar quais branches estão disponíveis, basta usar o comando:
 
-### Instalando no Windows <img alt="GitHub" src="./../assets/imagens/windows.png" width="20" height="20">
+    ```git branch```
 
-- Acesse o site do Git e faça o download do instalador:
+## Operações comuns com branches 🔡
 
-[![Git](https://img.shields.io/badge/Download-81599F?style=for-the-badge&logo=git&logoColor=%23D9ECFF&logoSize=auto&label=Git&labelColor=81599F&color=3CD4D9)](https://git-scm.com/downloads/win)
+Usualmente, usamos as branches como divisões que permitem o pararelismo do trabalho em funcionalidades específicas. Portanto, podemos criar, deletar, mesclar e atualizar as branches - como atividades comuns.
 
-- Execute o instalador;
-- Aceite a licença;
-- Selecione as preferências que tiver durante a instalação;
-- Finalize ao clicar em "Instalar/Install".
-
-### Instalando no Linux <img alt="GitHub" src="./../assets/imagens/linux.png" width="20" height="20">
-
-- Acesse o site do Git e confira a documentação:
-
-[![Git](https://img.shields.io/badge/Documentação-81599F?style=for-the-badge&logo=git&logoColor=%23D9ECFF&logoSize=auto&label=Git&labelColor=81599F&color=3CD4D9)](https://git-scm.com/downloads/linux)
-
-- Para a última versão estável da sua release do Debian/Ubuntu
+Para criar uma nova branch e ir até ela, use:
 
     ```
-    # apt-get install git
+    git checkout -b NOME_DA_BRANCH
     ```
 
-- Para o Ubuntu, esse processo fornece a versão estável mais recente do Git:
-    ```
-    # add-apt-repository ppa:git-core/ppa
-    ```
+Para deletar uma branch determinada, basta aplicar:
 
     ```
-    # apt update; apt install git
+    git branch -d NOME_DA_BRANCH
     ```
 
-- Para outras distribuições do Linux siga a documentação indicada acima.
-
-### Instalando no MacOS <img alt="GitHub" src="./../assets/imagens/apple.png" width="20" height="20">
-
-- Caso não tenha o HomeBrew ou o MacPorts, instale um desses:
-
-[![Homebrew](https://img.shields.io/badge/Download-81599F?style=for-the-badge&logo=homebrew&logoColor=%23D9ECFF&logoSize=auto&label=Homebrew&labelColor=81599F&color=3CD4D9
-)](https://brew.sh/)
-
-
-[![MacPorts](https://img.shields.io/badge/Download-81599F?style=for-the-badge&logoColor=%23D9ECFF&logoSize=auto&label=MacPorts&labelColor=81599F&color=3CD4D9)](https://www.macports.org/install.php)
-
-- Usando o Homebrew, basta executar o comando
+Para atualizar sua branch principal ```main``` com o conteúdo da sua branch remota, presente em ```origin``` use:
 
     ```
-    $brew install git
+    git fetch origin main
     ```
-
-- Para o MacPorts, execute esse código:
+Para verificar quais são as diferenças entre duas branches, use:
 
     ```
-    sudo port install git
+    git diff NOME_DA_BRANCH_1 NOME_DA_BRANCH_2
     ```
+Por fim, para mesclar duas branches, aplique:
 
-## Configurando o Git 🔑
-
-Nessa parte do conteúdo você acessará como configurar partes essenciais do Git.
-
-Para iniciar, você pode listar as configurações do seu Git com o seguinte comando:
-
-    $git config --list
-
-Além disso, é importante evidenciar que existem três tipos de configurações no Git, sendo elas:
-- --global: configurações globais, relacionadas ao seu usuário;
-- -- system: configurações fixadas ao sistema apenas;
-- --local: configurações do repositório em específico.
-
-### Configurando seu usuário e o nome da branch padrão:
-Para configurar globalmente o seu usuário, você usará os dois comandos a seguir:
-
-    $git config --global user.name "Nome e Sobrenome"
-    $git config --global user.email seuemail@email.com
-
-Para configurar o nome da branch padrão dos repositórios, globalmente, você deve usar o código a seguir:
-
-    $git config --global init.defaultBranch main
-
-Atualmente, usamos o nome ```main``` para nossas branches padrão. Em alguns repositórios mais antigos você também pode vê-las com o nome ```master```.
+    ```
+    git merge NOME_DA_BRANCH_1 NOME_DA_BRANCH_2
+    ```
 
 ## Referências para esse resumo 🔍
 
-- [Downloads](https://git-scm.com/downloads).
+- [Comandos GIT - Comandos essenciais do Git para gerenciamento de branches](https://www.dio.me/articles/comandos-git-comandos-essenciais-do-git-para-gerenciamento-de-branches).
 
 ## Autor ℹ️
 
