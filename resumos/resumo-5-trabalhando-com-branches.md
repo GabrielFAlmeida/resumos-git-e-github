@@ -7,7 +7,7 @@ Esse é o resumo trata sobre como manipular as branches e usá-las para segmenta
 
 Para listar quais branches estão disponíveis, basta usar o comando:
 
-    ```git branch```
+    git branch
 
 ## Operações comuns com branches 🔡
 
@@ -15,31 +15,26 @@ Usualmente, usamos as branches como divisões que permitem o pararelismo do trab
 
 Para criar uma nova branch e ir até ela, use:
 
-    ```
     git checkout -b NOME_DA_BRANCH
-    ```
 
 Para deletar uma branch determinada, basta aplicar:
 
-    ```
+
     git branch -d NOME_DA_BRANCH
-    ```
+
 
 Para atualizar sua branch principal ```main``` com o conteúdo da sua branch remota, presente em ```origin``` use:
 
-    ```
     git fetch origin main
-    ```
+
 Para verificar quais são as diferenças entre duas branches, use:
 
-    ```
     git diff NOME_DA_BRANCH_1 NOME_DA_BRANCH_2
-    ```
+
+
 Por fim, para mesclar duas branches, aplique:
 
-    ```
     git merge NOME_DA_BRANCH_1 NOME_DA_BRANCH_2
-    ```
 
 ## Referências para esse resumo 🔍
 
